@@ -1,0 +1,5 @@
+{
+  "name": "NBI CI Generator",
+  "description": "A smart assistant to generate and format Continuous Improvement (CI/Kaizen) forms automatically using Gemini AI.",
+  "requestFramePermissions": []
+}
